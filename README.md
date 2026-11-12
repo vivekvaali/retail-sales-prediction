@@ -1,4 +1,4 @@
-# Walmart Retail Sales Prediction
+# Retail Sales Prediction
 
 ## Project Overview
 This project focuses on analysing Walmart's historical sales data and building a machine learning model to predict weekly sales across different stores and departments.
